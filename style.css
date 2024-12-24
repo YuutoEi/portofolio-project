@@ -1,0 +1,8 @@
+.daftar a{
+    text-decoration: none;
+}
+.daftar{
+    display: block;
+    text-align: end;
+    margin: 1rem;
+}
